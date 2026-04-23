@@ -13,6 +13,6 @@ Imports:
     backports,
     fs,
     glue,
-    qs,
+    qs2,
     stats,
     utils
